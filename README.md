@@ -14,7 +14,8 @@ Si prega di fare riferimento alle singole cartelle dei progetti per informazioni
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ENG\\
+ENG
+
 This repository contains a collection of my academic and personal projects, documented in LaTeX format. These projects showcase my skills and experience in various fields, including aerospace and mechanical engineering, 3D printing, and electronics.
 
 Projects included in this repository (upcoming):
