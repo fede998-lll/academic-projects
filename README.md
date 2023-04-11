@@ -2,7 +2,7 @@ ENGLISH VERSION BELOW
 
 Questa repository contiene una raccolta dei miei progetti accademici e personali, documentati in formato LaTeX. Questi progetti mostrano le mie competenze ed esperienze in diversi campi, tra cui l'ingegneria aerospaziale e meccanica, la stampa 3D e l'elettronica.
 
-Progetti inclusi in questa repository (in arrivo):
+Progetti inclusi in questa repository (in aggiornamento):
 
 1. Progettazione e manifattura di un supporto per un'antenna per applicazioni spaziali utilizzando la tecnologia di manifattura additiva LB-PBF - Politecnico di Torino - Torino, ITALIA
 In questo progetto, è stato progettato un supporto metallico per collegare un satellite e un'antenna di comunicazione dati, che verrà utilizzato in orbita terrestre bassa (LEO). Il design doveva considerare vincoli legati alla selezione dei materiali, alla resistenza alla fatica e ai displacements ammessi durante il funzionamento. Inoltre, dal momento che il satellite farà parte di una costellazione di 120 unità, ci sono stati anche vincoli sui costi di produzione e sui tempi.\\
