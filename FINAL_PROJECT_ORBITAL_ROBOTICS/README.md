@@ -1,9 +1,9 @@
-##ITA
+## ITA
 
 Strumento software di analisi per il movimento orbitale e l'assetto/configurazione planare di un sistema Satellite-Manipolatore Robotico in orbita intorno alla Terra - Politecnico di Torino - Torino, ITALIA
 Il progetto si concentra sull'analisi del movimento di un manipolatore robotico su un veicolo in volo libero in orbita. Le ipotesi includono il movimento nel piano dell'orbita e un bersaglio in orbita circolare a un'altitudine di 500 km. Sono state stabilite specifiche riguardanti le masse del manipolatore e del corpo di base. L'analisi comprende sia il movimento traslazionale che rotazionale interno del veicolo. Il team è composto da 4 membri.
 
-##ENG
+## ENG
 
 Software tool for analysis of orbital motion and planar configuration of a Satellite-Robotic Manipulator system in orbit around Earth - Politecnico di Torino - Turin, ITALY
 The project focuses on analyzing the motion of a robotic manipulator on a free-flying vehicle in orbit. Assumptions include motion in the orbit plane and a target in circular orbit at an altitude of 500 km. Specifics regarding the masses of the manipulator and the base body have been established. The analysis includes both translational and internal rotational motion of the vehicle. The team consists of 4 members.
