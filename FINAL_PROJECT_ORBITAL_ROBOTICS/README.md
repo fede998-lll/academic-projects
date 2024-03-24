@@ -12,8 +12,6 @@ The project focuses on analyzing the motion of a robotic manipulator on a free-f
 
 ## Software Overview
 
-This repository contains software implementations related to aerospace engineering and physics. It includes various codes and simulations for different purposes. Below is a brief overview of each section:
-
 ### Part 1: Orbital Mechanics
 
 #### 1.2 HCW Figures
