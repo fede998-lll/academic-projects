@@ -1,24 +1,57 @@
-## ITA
+# 🎓 Academic Projects
 
-Questa repository contiene una raccolta dei miei progetti accademici e personali, documentati in formato LaTeX. Questi progetti mostrano le mie competenze ed esperienze in diversi campi, tra cui l'ingegneria aerospaziale e meccanica, la stampa 3D e l'elettronica.
+## 🇬🇧 English
 
-Progetti inclusi in questa repository (in aggiornamento):
+This repository collects a selection of my academic projects developed during my Aerospace Engineering studies at Politecnico di Torino.  
+Each project is documented using LaTeX and reflects my hands-on experience in various domains such as propulsion, structural design, 3D printing, and orbital mechanics.
 
-1. Progettazione e manifattura di un supporto per un'antenna per applicazioni spaziali utilizzando la tecnologia di manifattura additiva LB-PBF - Politecnico di Torino - Torino, ITALIA
-2. Progettazione e manifattura di un supporto a sbalzo utilizzando la tecnologia di manifattura additiva FDM - Politecnico di Torino - Torino, ITALIA
-3. Strumento software di analisi per il movimento orbitale e l'assetto/configurazione planare di un sistema Satellite-Manipolatore Robotico in orbita intorno alla Terra - Politecnico di Torino - Torino, ITALIA
-4. Progettazione concettuale di un aeromobile commerciale subsonico - Politecnico di Torino - Torino, ITALIA
-5. Progettazione preliminare di un dirigibile umanitario - Politecnico di Torino - Torino, ITALIA
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🔍 Projects included:
 
-## ENG
+1. **Antenna Mount Design for Space Applications**  
+   Additive manufacturing using LB-PBF technology  
+   _Politecnico di Torino – Turin, ITALY_
 
-This repository contains a collection of my academic and personal projects, documented in LaTeX format. These projects showcase my skills and experiences in various fields, including aerospace and mechanical engineering, 3D printing, and electronics.
+2. **Cantilever Support Design via FDM 3D Printing**  
+   Design and realization using Fused Deposition Modeling  
+   _Politecnico di Torino – Turin, ITALY_
 
-Projects included in this repository (updating):
+3. **Software Tool for Satellite–Robotic Manipulator System**  
+   Orbital and planar configuration analysis  
+   _Politecnico di Torino – Turin, ITALY_
 
-1. Design and manufacturing of an antenna support for space applications using LB-PBF additive manufacturing technology - Politecnico di Torino - Turin, ITALY
-2. Design and manufacturing of a cantilever support using FDM additive manufacturing technology - Politecnico di Torino - Turin, ITALY
-3. Software tool for analysis of orbital motion and planar configuration of a Satellite-Robotic Manipulator system in orbit around Earth - Politecnico di Torino - Turin, ITALY
-4. Conceptual design of a subsonic commercial aircraft - Politecnico di Torino - Turin, ITALY
-5. Preliminary design of a humanitarian airship - Politecnico di Torino - Turin, ITALY
+4. **Conceptual Design of a Subsonic Commercial Aircraft**  
+   Multidisciplinary approach to preliminary design  
+   _Politecnico di Torino – Turin, ITALY_
+
+5. **Preliminary Design of a Humanitarian Airship**  
+   High-level design for remote support missions  
+   _Politecnico di Torino – Turin, ITALY_
+
+---
+
+## 🇮🇹 Italiano
+
+Questa repository raccoglie una selezione dei miei progetti accademici sviluppati durante il percorso di studi in Ingegneria Aerospaziale al Politecnico di Torino.  
+Ogni progetto è documentato in LaTeX e riflette esperienze pratiche in ambiti quali propulsione, design strutturale, stampa 3D e meccanica orbitale.
+
+### 🔍 Progetti inclusi:
+
+1. **Progettazione di un supporto per antenna per applicazioni spaziali**  
+   Manifattura additiva tramite tecnologia LB-PBF  
+   _Politecnico di Torino – Torino, ITALIA_
+
+2. **Progettazione di un supporto a sbalzo tramite stampa 3D FDM**  
+   Design e realizzazione con Fused Deposition Modeling  
+   _Politecnico di Torino – Torino, ITALIA_
+
+3. **Strumento software per sistema Satellite–Manipolatore Robotico**  
+   Analisi del moto orbitale e della configurazione planare  
+   _Politecnico di Torino – Torino, ITALIA_
+
+4. **Progettazione concettuale di un aeromobile commerciale subsonico**  
+   Approccio multidisciplinare al progetto preliminare  
+   _Politecnico di Torino – Torino, ITALIA_
+
+5. **Progettazione preliminare di un dirigibile umanitario**  
+   Design di alto livello per missioni in aree remote  
+   _Politecnico di Torino – Torino, ITALIA_
