@@ -51,8 +51,3 @@ Ogni progetto è documentato in LaTeX e riflette esperienze pratiche in ambiti q
 
 6. [**Progettazione Preliminare di un Motore Turbofan per un Caccia Air-to-Air**](./AAF_TURBOFAN_ENGINE)  
    _Politecnico di Torino – Torino, ITALIA_
-
-
-5. **Progettazione preliminare di un dirigibile umanitario**  
-   Design di alto livello per missioni in aree remote  
-   _Politecnico di Torino – Torino, ITALIA_
